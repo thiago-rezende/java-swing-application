@@ -15,6 +15,9 @@ if (!hasProperty('mainClass')) {
     ext.mainClass = 'main.Main'
 }
 
+// Main class name for the run task of the application plugin
+mainClassName = 'main.Main'
+
 repositories {
     mavenCentral()
     // You may define additional repositories, or even remove "mavenCentral()".
