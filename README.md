@@ -1,2 +1,2 @@
-# java-swing-application
-A simple java swing application
+# Java Swing Application
+ - A simple java swing application
