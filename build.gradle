@@ -18,6 +18,15 @@ if (!hasProperty('mainClass')) {
 // Main class name for the run task of the application plugin
 mainClassName = 'main.Main'
 
+// Set default MANIFEST.MF
+jar {
+    manifest {
+        attributes("Manifest-Version": 1.0,
+        "Class-Path": ".",
+        "Main-Class": "main.Main")
+    }
+}
+
 repositories {
     mavenCentral()
     // You may define additional repositories, or even remove "mavenCentral()".
