@@ -1,8 +1,9 @@
 # Java Swing Application
-![](https://img.shields.io/badge/Java-8-red.svg) ![](https://img.shields.io/badge/Gradle-5-green.svg) ![](https://img.shields.io/badge/NetBeans-10-lightgrey.svg)
+![](https://img.shields.io/badge/Java-8-red.svg) ![](https://img.shields.io/badge/Gradle-5-green.svg)
  - A simple java swing application
  ### How to Use
  - first download and install jdk_8 [here](https://www.oracle.com/technetwork/pt/java/javase/downloads/jdk8-downloads-2133151.html)
+ - setup the ```JAVA_HOME``` system variable
  - execute the following commands
  
      ```
