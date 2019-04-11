@@ -9,8 +9,8 @@
      ```
      git clone https://github.com/thiago-rezende/java-swing-application.git
      cd java-swing-application
-     gradlew.bat build
-     gradlew.bat run
+     ./gradlew build
+     ./gradlew run
      ``` 
  - Project structure
      ```
