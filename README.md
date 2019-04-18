@@ -32,4 +32,3 @@
                 ├───java         # Test classes goes here
                 └───resources    # Test resources goes here
     ```
- 
